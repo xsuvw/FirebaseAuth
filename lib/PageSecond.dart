@@ -1,6 +1,5 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'main.dart';
 
 void main(){
   runApp(MaterialApp(
@@ -36,11 +35,10 @@ class _PageSecondState extends State<PageSecond> {
                         ),
                       ),
                       Text(
-                        user.data.toString() + "!",
+                        user.data.toString(),
                         style: TextStyle(
                           color: Colors.grey,
                           fontWeight: FontWeight.bold,
-                          fontStyle: FontStyle.italic,
                           fontSize: 20,
                         ),
                       )
