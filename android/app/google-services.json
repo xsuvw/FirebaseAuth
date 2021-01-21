@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1030887864898",
+    "project_id": "auth2-a992e",
+    "storage_bucket": "auth2-a992e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030887864898:android:bae537c795e6dfd5a54bdb",
+        "android_client_info": {
+          "package_name": "com.example.auth2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030887864898-eqorat99v5jskjtsjs6frp82kspuer8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnbFrn05ACfgFk5qls8cgZ9ETWn_xCo4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030887864898-eqorat99v5jskjtsjs6frp82kspuer8i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
