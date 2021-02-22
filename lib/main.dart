@@ -73,7 +73,6 @@ class _AuthPageState extends State<AuthPage> {
   }
 }
 
-
 Future<void> FireAuth() async {
   FirebaseUser user = (await FirebaseAuth.instance.signInWithEmailAndPassword(
       email: 'aman', password: 'aman')) as FirebaseUser;
